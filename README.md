@@ -23,7 +23,7 @@
 <p>git clone + URL </p>
 
 <h3>Entrar no diretório</h3>
-<p>$ cd Desafio-MC</p>
+<p>$ cd Teste-Melhor-Comunica-o</p>
 
 ### Instalar as dependências
  <p>npm install</p>
